@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm Sophia. 
-This page is documentation of my learning journey.
+This page is documentation of my progress as I develop skills and explore different subject matter. 
